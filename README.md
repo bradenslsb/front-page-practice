@@ -1,5 +1,4 @@
-# React/Redux/Router Starter Project
+# Quick project for Bottega to try and copy this image withen an hour
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> https://files.slack.com/files-pri/T208051T5-F01JEEWE32T/mockup.png
 
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
